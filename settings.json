@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Infinite-loop_server.athernos.me",
+    "ip": "Infinite-loop_server.aternos.me",
     "port": 47115,
     "version": "",
     "try-creative": false
